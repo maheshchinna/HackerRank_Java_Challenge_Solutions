@@ -43,7 +43,6 @@ public class Solution {
                     even_Chars=even_Chars+(input_string.charAt(j));
             else 
                     odd_Chars=odd_Chars+(input_string.charAt(j));
-
           }
             System.out.println(even_Chars+" "+odd_Chars);
             even_Chars = "";odd_Chars = "";
